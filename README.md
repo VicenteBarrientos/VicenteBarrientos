@@ -9,7 +9,7 @@ My projects sit at the intersection of domain knowledge and product engineering:
   ·
   <a href="https://www.linkedin.com/in/vicente-barrientos/"><strong>LinkedIn</strong></a>
   ·
-  <a href="https://resume-x-yixz.vercel.app"><strong>ResumeX</strong></a>
+  <a href="https://resumex.talentxrecruiting.com"><strong>ResumeX</strong></a>
 </p>
 
 ## Featured work
@@ -34,4 +34,3 @@ My projects sit at the intersection of domain knowledge and product engineering:
 `TypeScript` · `Next.js` · `React` · `Node.js` · `Python` · `Flask` · `PostgreSQL` · `Prisma` · `LLM APIs`
 
 I'm based in Miami and work across international talent markets. The best way to reach me is through [TalentX Recruiting](https://talentxrecruiting.com) or [LinkedIn](https://www.linkedin.com/in/vicente-barrientos/).
-
