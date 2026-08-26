@@ -1,36 +1,72 @@
-# Hi, I'm Vicente 👋
+# Hi, I'm Vicente Barrientos 👋
 
-I'm a technical recruiter and talent sourcer building practical software for recruiting workflows, candidate experience, and operational automation.
+## Technical Recruiter · Talent Acquisition · LATAM Tech
 
-My projects sit at the intersection of domain knowledge and product engineering: I start with a workflow I understand, turn it into a focused tool, and iterate in public with an emphasis on honest scope and useful interfaces.
+**I'm open to my next Technical Recruiter, Talent Acquisition Partner, Recruiting Partner, or Talent Partner opportunity.**
+
+🇨🇱 Chile-based · 🌎 Remote LATAM / international teams · 💻 Software, Data, AI & technical hiring
+
+I recruit technical talent and build practical AI/software tools for recruiting workflows. My edge is the combination of **hands-on recruiting experience, outbound sourcing, LATAM market knowledge, and enough technical depth to understand the teams and candidates I'm working with.**
 
 <p>
-  <a href="https://talentxrecruiting.com/meet-the-team/vicente-barrientos"><strong>Portfolio</strong></a>
-  ·
   <a href="https://www.linkedin.com/in/vicente-barrientos/"><strong>LinkedIn</strong></a>
+  ·
+  <a href="https://talentxrecruiting.com/meet-the-team/vicente-barrientos"><strong>Portfolio</strong></a>
   ·
   <a href="https://resumex.talentxrecruiting.com"><strong>ResumeX</strong></a>
 </p>
 
-## Featured work
+---
 
-| Project | What it explores | Stack |
+## 🎯 What I bring
+
+- Technical recruiting and outbound sourcing for **software, data, DevOps/infrastructure, AI/ML, product, and technical leadership** roles
+- Recruiting experience across **Chile, Argentina, Brazil, Peru, Mexico, and international markets**
+- Experience partnering with hiring managers and building pipelines from scratch
+- Strong candidate research, sourcing strategy, outreach, screening, and process ownership
+- Experience working with fast-moving technology companies and international stakeholders
+- An **AI-native approach to recruiting**: I build and use tools to automate repetitive work while keeping human judgment in the loop
+
+## 👨‍💻 Why GitHub is part of my recruiting profile
+
+I'm not trying to become a software engineer. I build because it makes me a better technical recruiter.
+
+Working with code, APIs, databases, LLMs, GitHub, and modern product workflows helps me understand technical roles beyond keywords on a résumé—and lets me prototype better ways to source, evaluate, and support candidates.
+
+## 🧠 Recruiting + AI projects
+
+| Project | What it does | Stack |
 | --- | --- | --- |
-| [ResumeX](https://github.com/VicenteBarrientos/ResumeX) | One workspace for CV formatting, role matching, cover-letter drafts, job discovery, application tracking, and profile reuse. | Next.js, TypeScript, PostgreSQL, Prisma, OpenAI |
-| [TalentX Recruiting](https://github.com/VicenteBarrientos/talentx-website) | A bilingual, motion-led recruiting website and product portfolio. | Next.js, React, Tailwind CSS, Motion |
-| [Sourcing Copilot](https://github.com/VicenteBarrientos/resumex-sourcing-copilot) | Recruiter-owned search generation, public-result validation, candidate review, ranking, and CSV export. | Next.js, TypeScript, Serper, OpenAI |
-| [Mapulengua](https://github.com/VicenteBarrientos/mapulengua) | A gamified language-learning interface and local-first progress system. Language content remains an unvalidated prototype. | Next.js, TypeScript, PWA, Web Speech API |
-| [LedgerMail](https://github.com/VicenteBarrientos/Ledgermail) | An MVP pipeline for turning bank-notification emails and PDFs into reviewable transaction data. | TypeScript, Express, Prisma, Gmail, Microsoft Graph, LLM APIs |
+| [ResumeX](https://github.com/VicenteBarrientos/ResumeX) | CV formatting, role matching, cover-letter drafts, job discovery, application tracking, and reusable candidate profiles. | Next.js, TypeScript, PostgreSQL, Prisma, OpenAI |
+| [Sourcing Copilot](https://github.com/VicenteBarrientos/resumex-sourcing-copilot) | Search generation, public-result validation, candidate review, ranking, and CSV export for sourcing workflows. | Next.js, TypeScript, Serper, OpenAI |
+| [TalentX Recruiting](https://github.com/VicenteBarrientos/talentx-website) | Recruiting website and product portfolio built around international talent acquisition. | Next.js, React, Tailwind CSS, Motion |
+| [Mapulengua](https://github.com/VicenteBarrientos/mapulengua) | Gamified language-learning product prototype with local-first progress. | Next.js, TypeScript, PWA, Web Speech API |
+| [LedgerMail](https://github.com/VicenteBarrientos/Ledgermail) | Turns bank-notification emails and PDFs into structured, reviewable transaction data. | TypeScript, Express, Prisma, Gmail, Microsoft Graph, LLM APIs |
 
-## What I focus on
+## 🔎 Roles I'm interested in
 
-- Technical recruiting and sourcing across AI/ML, data, and software roles
-- Tools that reduce repetitive recruiting and operations work
-- Human-reviewed AI workflows with explicit privacy and reliability boundaries
-- Product prototypes that connect domain expertise with working software
+- Technical Recruiter
+- Senior Recruiter
+- Talent Acquisition Partner
+- Recruiting Partner
+- Talent Partner
+- Technical Sourcer / Senior Sourcer
 
-## Current toolkit
+I'm especially interested in **software, AI, SaaS, developer tools, data, fintech, and other engineering-heavy companies** hiring across Latin America or globally.
 
-`TypeScript` · `Next.js` · `React` · `Node.js` · `Python` · `Flask` · `PostgreSQL` · `Prisma` · `LLM APIs`
+## 🛠️ Technical toolkit
 
-I'm based in Miami and work across international talent markets. The best way to reach me is through [TalentX Recruiting](https://talentxrecruiting.com) or [LinkedIn](https://www.linkedin.com/in/vicente-barrientos/).
+`GitHub` · `TypeScript` · `Next.js` · `React` · `Node.js` · `Python` · `PostgreSQL` · `Prisma` · `APIs` · `LLM workflows`
+
+These aren't résumé keywords for me—the repositories below show the actual projects.
+
+---
+
+## 📬 Hire me / let's talk
+
+If you're building a strong technical team and need someone who can **source deeply, understand LATAM talent markets, partner with technical hiring managers, and use AI intelligently**, I'd love to talk.
+
+👉 [Connect with me on LinkedIn](https://www.linkedin.com/in/vicente-barrientos/)  
+👉 [See my recruiting portfolio](https://talentxrecruiting.com/meet-the-team/vicente-barrientos)
+
+**Currently open to remote opportunities from Chile.**
